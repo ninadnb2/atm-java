@@ -1,4 +1,4 @@
-# ATM
+# ATM Java
 
 This is a basic atm project which represents the working of the ATM machine.
 
